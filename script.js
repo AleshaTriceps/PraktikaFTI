@@ -28,12 +28,4 @@
         // document.getElementById("greeting").innerHTML = 'got your reset email yet ? ';
       })
     })
-
-var today = new Date();
-    var hourNow = today.getHours();
-    var greeting;
-
-    
-    greeting = 'Добро пожаловать';
-    
-    document.getElementById('greeting').innerHTML = greeting;
+  
